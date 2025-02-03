@@ -1,4 +1,4 @@
-![Preview](https://spotify-endssh.phylex.net/?theme=dark)
+<p align="center"> <img src="https://spotify-endssh.phylex.net/?theme=dark" /> </p>
 
 <h1 align="center">Hi 👋, I'm endssh</h1>
 <h3 align="center">Full-Stack developer on Golang, Nuxt+VueJS, Python-Django</h3>
